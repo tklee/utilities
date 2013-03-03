@@ -11,4 +11,5 @@ set number
 set nowrap
 
 set backspace=2
-
+noremap K 10j
+noremap I 10k
