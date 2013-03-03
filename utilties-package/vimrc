@@ -1,0 +1,14 @@
+imap jk <ESC>
+imap kj <ESC>
+
+noremap h i
+noremap j h
+noremap k j
+noremap i k
+
+syntax on
+set number
+set nowrap
+
+set backspace=2
+
